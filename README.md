@@ -1,5 +1,10 @@
 # elk stack
 
+## Technologies
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=docker,kibana" />
+</div>
+
 ## Getting started
 
 1. Fork or clone this repo
