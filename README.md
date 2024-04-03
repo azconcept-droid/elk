@@ -11,6 +11,7 @@
 **Resources**
 - [Getting started](https://www.elastic.co/blog/getting-started-with-elk)
 - [ELK Stack and Configuring Logging,Explained](https://medium.com/make-it-heady/what-and-why-ekl-stack-378e6c4765b9)
+- [Github documentation](https://github.com/reactome/elk-setup/blob/develop/README.md)
 
 ## Getting started
 
