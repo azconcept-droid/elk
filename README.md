@@ -5,6 +5,9 @@
     <img src="https://skillicons.dev/icons?i=docker,kibana" />
 </div>
 
+## Brief intro
+<p>Elasticsearch, Logstash, and Kibana form a comprehensive platform for centralized log management, allowing organizations to collect, store, analyze, and visualize log data from various sources in real-time. This enables better troubleshooting, monitoring, and analysis of system and application logs, leading to improved operational efficiency, faster incident response times, and enhanced decision-making capabilities.</p>
+
 ## Getting started
 
 1. Fork or clone this repo
